@@ -18,6 +18,6 @@ Add your Jupyter notebook to this folder. This will be the main script to run fo
 
 Push these changes to GitHub or GitLab.
 
-Instructions
+Instructions \n
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
 
